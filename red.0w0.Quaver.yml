@@ -1,0 +1,4 @@
+id: red.0w0.Quaver
+runtime: org.freedesktop.Platform
+runtime-version: '26.08'
+sdk: org.freedesktop.sdk
